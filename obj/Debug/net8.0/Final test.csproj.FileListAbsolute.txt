@@ -1,0 +1,15 @@
+D:\Практика\Final test\bin\Debug\net8.0\Final test.exe
+D:\Практика\Final test\bin\Debug\net8.0\Final test.deps.json
+D:\Практика\Final test\bin\Debug\net8.0\Final test.runtimeconfig.json
+D:\Практика\Final test\bin\Debug\net8.0\Final test.dll
+D:\Практика\Final test\bin\Debug\net8.0\Final test.pdb
+D:\Практика\Final test\obj\Debug\net8.0\Final test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика\Final test\obj\Debug\net8.0\Final test.AssemblyInfoInputs.cache
+D:\Практика\Final test\obj\Debug\net8.0\Final test.AssemblyInfo.cs
+D:\Практика\Final test\obj\Debug\net8.0\Final test.csproj.CoreCompileInputs.cache
+D:\Практика\Final test\obj\Debug\net8.0\Final test.sourcelink.json
+D:\Практика\Final test\obj\Debug\net8.0\Final test.dll
+D:\Практика\Final test\obj\Debug\net8.0\refint\Final test.dll
+D:\Практика\Final test\obj\Debug\net8.0\Final test.pdb
+D:\Практика\Final test\obj\Debug\net8.0\Final test.genruntimeconfig.cache
+D:\Практика\Final test\obj\Debug\net8.0\ref\Final test.dll
